@@ -48,7 +48,7 @@ Due to RAND’s data-use restrictions, the original dataset is **not included** 
 
 - **Source:** RAND American Life Panel (ALP)  
 - **Module:** “Media and Misinformation” (Wave 2022-10)  
-- **Access:** [[[https://www.rand.org/research/data/alp.html](https://www.rand.org/research/data/alp.html)](https://www.rand.org/education-employment-infrastructure/survey-panels/alp.html) ](https://www.rand.org/education-employment-infrastructure/survey-panels/alp.html) 
+- **Access:**[https://www.rand.org/research/data/alp.html](https://www.rand.org/research/data/alp.html) 
 - **Sample size:** 936 respondents (Completion rate ≈ 72.6%)  
 - **Age range:** 55–90+ years  
 - **Variables:** Media-literacy confidence (Q4), Concern about misinformation (Q5), Self-concern (Q6)  
