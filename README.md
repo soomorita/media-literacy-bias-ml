@@ -63,14 +63,14 @@ The Chinese University of Hong Kong (Exchange, 2024)
 
 ## References
 
-Adele Cutler, D. Richard Cutler, and John R. Stevens. (2012). Random Forests, Ensemble Machine Learning, pp. 157-175.
-Alicke, M. D., Klotz, M. L., Breitenbecher, D. L., Yurak, T. J., & Vredenburg, D. S. (1995). Personal contact, individuation, and the better-than-average effect. Journal of Personality and Social Psychology, 68(5), 804–825.
-Benjamin Enke, Uri Gneezy, Brian Hall, David Martin, Vadim Nelidov, Theo Offerman, Jeroen van de Ven. (2023). Cognitive Biases: Mistakes or Missing Stakes?. The Review of Economics and Statistics 2023; 105 (4): 818–832.
-Breiman, L. (2001) Random Forests. Machine Learning, 45, 5-32.
-Lee, N. M. (2018). Fake news, phishing, and fraud: A call for research on digital media literacy education beyond the classroom. Communication Education, 67(4), 460–466.
-Lee, T. (2019), "The global rise of “fake news” and the threat to democratic elections in the USA", Public Administration and Policy: An Asia-Pacific Journal, Vol. 22 No. 1, pp. 15-24.
-Moore, D. A., & Healy, P. J. (2008). The trouble with overconfidence. Psychological Review, 115(2), 502–517.
-Pronin, E., Lin, D. Y., & Ross, L. (2002). The bias blind spot: Perceptions of bias in self versus others. Personality and Social Psychology Bulletin, 28(3), 369–381.
-Ruggeri, K., Ashcroft-Jones, S., Abate Romero Landini, G. et al. (2023). The persistence of cognitive biases in financial decisions across economic groups. Sci Rep 13, 10329.
-W. PHILLIPS DAVISON. 1983. The Third-Person Effect in Communication. Public Opinion Quarterly, Volume 47, Issue 1, SPRING 1983, Pages 1–15.
-RAND ALP Data Portal: [https://www.rand.org/research/data/alp.html](https://www.rand.org/education-employment-infrastructure/survey-panels/alp.html)
+- Adele Cutler, D. Richard Cutler, and John R. Stevens. (2012). Random Forests, Ensemble Machine Learning, pp. 157-175.
+- Alicke, M. D., Klotz, M. L., Breitenbecher, D. L., Yurak, T. J., & Vredenburg, D. S. (1995). Personal contact, individuation, and the better-than-average effect. Journal of Personality and Social Psychology, 68(5), 804–825.
+- Benjamin Enke, Uri Gneezy, Brian Hall, David Martin, Vadim Nelidov, Theo Offerman, Jeroen van de Ven. (2023). Cognitive Biases: Mistakes or Missing Stakes?. The Review of Economics and Statistics 2023; 105 (4): 818–832.
+- Breiman, L. (2001) Random Forests. Machine Learning, 45, 5-32.
+- Lee, N. M. (2018). Fake news, phishing, and fraud: A call for research on digital media literacy education beyond the classroom. Communication Education, 67(4), 460–466.
+- Lee, T. (2019), "The global rise of “fake news” and the threat to democratic elections in the USA", Public Administration and Policy: An Asia-Pacific Journal, Vol. 22 No. 1, pp. 15-24.
+- Moore, D. A., & Healy, P. J. (2008). The trouble with overconfidence. Psychological Review, 115(2), 502–517.
+- Pronin, E., Lin, D. Y., & Ross, L. (2002). The bias blind spot: Perceptions of bias in self versus others. Personality and Social Psychology Bulletin, 28(3), 369–381.
+- Ruggeri, K., Ashcroft-Jones, S., Abate Romero Landini, G. et al. (2023). The persistence of cognitive biases in financial decisions across economic groups. Sci Rep 13, 10329.
+- W. PHILLIPS DAVISON. 1983. The Third-Person Effect in Communication. Public Opinion Quarterly, Volume 47, Issue 1, SPRING 1983, Pages 1–15.
+- RAND ALP Data Portal: [https://www.rand.org/research/data/alp.html](https://www.rand.org/education-employment-infrastructure/survey-panels/alp.html)
