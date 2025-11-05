@@ -52,8 +52,6 @@ Due to RAND’s data-use restrictions, the original dataset is **not included** 
 - **Sample size:** 936 respondents (Completion rate ≈ 72.6%)  
 - **Age range:** 55–90+ years  
 - **Variables:** Media-literacy confidence (Q4), Concern about misinformation (Q5), Self-concern (Q6)  
-- **Data usage note:**  
-  Access requires a RAND account. The data used in this project were obtained under CUHK’s 2024 academic license.
 
 ---
 
