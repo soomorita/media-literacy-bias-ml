@@ -55,19 +55,6 @@ Due to RAND’s data-use restrictions, the original dataset is **not included** 
 
 ---
 
-## How to Run
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/soomorita/media-literacy-bias-ml.git
-   cd media-literacy-bias-ml
-
-2. Add the RAND dataset (once obtained) under data/ as alp_misinformation.csv
-
-3. Open the notebook in Jupyter or Colab:
-   notebook/media_literacy_bias.ipynb
----
-
 ## Author
 
 **Soya Morita**  
