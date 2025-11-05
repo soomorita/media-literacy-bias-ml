@@ -48,7 +48,7 @@ Due to RAND’s data-use restrictions, the original dataset is **not included** 
 
 - **Source:** RAND American Life Panel (ALP)  
 - **Module:** “Media and Misinformation” (Wave 2022-10)  
-- **Access:** [https://www.rand.org/research/data/alp.html](https://www.rand.org/research/data/alp.html)  
+- **Access:** [[[https://www.rand.org/research/data/alp.html](https://www.rand.org/research/data/alp.html)](https://www.rand.org/education-employment-infrastructure/survey-panels/alp.html) ](https://www.rand.org/education-employment-infrastructure/survey-panels/alp.html) 
 - **Sample size:** 936 respondents (Completion rate ≈ 72.6%)  
 - **Age range:** 55–90+ years  
 - **Variables:** Media-literacy confidence (Q4), Concern about misinformation (Q5), Self-concern (Q6)  
@@ -82,4 +82,4 @@ The Chinese University of Hong Kong (Exchange, 2024)
 Breiman, L. (2001). Random Forests. Machine Learning, 45(1), 5–32.
 Davison, W. P. (1983). The Third-Person Effect in Communication. Public Opinion Quarterly, 47(1), 1–15.
 Pronin, E. et al. (2002). The Bias Blind Spot. Personality and Social Psychology Bulletin, 28(3), 369–381.
-RAND ALP Data Portal: https://www.rand.org/research/data/alp.html
+RAND ALP Data Portal: [https://www.rand.org/research/data/alp.html](https://www.rand.org/education-employment-infrastructure/survey-panels/alp.html)
